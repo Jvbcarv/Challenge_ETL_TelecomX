@@ -60,3 +60,5 @@ Load (Análise):
 - Cruzamento de churn com variáveis relevantes
 
 - Visualizações gráficas
+
+<img src= "https://cdn1.gnarususercontent.com.br/1/853787/bb9b4a07-c633-4b9d-a934-544b9b96d915.png" width="500">
